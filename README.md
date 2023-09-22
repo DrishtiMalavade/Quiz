@@ -5,7 +5,7 @@ This is a simple Python quiz game that tests your knowledge by asking a series o
 ## Features
 
 - Randomly selects questions from a predefined set.
-- Validates user input to ensure it's within the correct range (1, 2, 3, or 4).
+- Validates user input to ensure it's within the correct range (1, 2 or 3).
 - Provides a final score at the end of the quiz.
 
 ## How to Use
