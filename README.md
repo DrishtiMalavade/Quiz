@@ -2,6 +2,8 @@
 
 This is a simple Python quiz game that tests your knowledge by asking a series of questions. You'll be presented with multiple-choice options for each question, and your task is to select the correct answer. The game keeps track of your score and provides feedback on your performance.
 
+The quiz.py file has GUI for the game using tkinter.
+
 ## Features
 
 - Randomly selects questions from a predefined set.
